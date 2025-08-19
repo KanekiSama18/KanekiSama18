@@ -1,4 +1,5 @@
-## Hi there 👋
+<div align='center'>
+<h2> Hi there 👋</h2>
 
 <!--
 **KanekiSama18/KanekiSama18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +25,7 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KanekiSama18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
